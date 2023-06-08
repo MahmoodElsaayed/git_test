@@ -1,1 +1,9 @@
 testing testing 1 2 3
+
+I'm figuring out some of Git commands and as of now here is what I know
+
+# git log
+    # used to display the whole log of activities since the creation of the repo
+
+# git status 
+    # used to display the status/changes in the current working directory
